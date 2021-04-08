@@ -1,0 +1,13 @@
+.rccs__card {
+    height: 132.873px;
+ 
+    width: 240px;
+}
+
+
+@media screen and (max-width:430px){
+    .card_input_details{
+        /* padding: 0 10px 10px 65px; */
+        margin-top: 20px !important;
+    }
+}
